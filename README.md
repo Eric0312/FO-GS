@@ -44,7 +44,7 @@ The `EEG_Experiment/` directory includes the subject data files `s00.csv` throug
 
 The plots report subject-level average one-step normalized mean squared error (NMSE).
 
-# Citation
+## Citation
 
 ```bash
 @misc{zhang2026learningfractionalorderdynamicssingle,
