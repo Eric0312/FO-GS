@@ -43,3 +43,17 @@ The `EEG_Experiment/` directory includes the subject data files `s00.csv` throug
 2. Run `EEG_plot_final.ipynb` from the same directory. It reads the generated subject-level summary and creates `eeg_test_nmse_comparison.pdf` for Figure 3 and `eeg_train_nmse_comparison.pdf` for Figure 4.
 
 The plots report subject-level average one-step normalized mean squared error (NMSE).
+
+# Citation
+
+```bash
+@misc{zhang2026learningfractionalorderdynamicssingle,
+      title={Learning Fractional-Order Dynamics from a Single Trajectory}, 
+      author={Xiaole Zhang and Ziyi Zhang and Zehao Zhao and Stephen Tu and Guannan Qu and Yorie Nakahira and Paul Bogdan},
+      year={2026},
+      eprint={2609.18127},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2609.18127}, 
+}
+```
