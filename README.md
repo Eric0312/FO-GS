@@ -1,4 +1,4 @@
-# Reproducing the Paper Experiments
+# Learning Fractional-Order Dynamics from a Single Trajectory
 
 This repository contains the synthetic experiments and EEG experiments for Figures 2–4 and Tables 1–2. Use Python 3.10 or later and install the required packages:
 
